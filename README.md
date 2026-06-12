@@ -9,5 +9,3 @@
 - 🖊 My research interests include Deep Learning for **EEG**, **Brain-Computer Interfaces (BCI)**, **Medical Time-series (MedTS)**, and **Brain Foundation Model**.
 
 - 🔍 Reviewer for NeurIPS, ICLR, ICML, AISTATS, AAAI;
-  
-- 👯 I am looking for a **PhD summer internship in 2026** focusing on EEG,  BCI, and AI for healthcare. If you have opportunities available in these areas, please reach out to me at [**ywang145@charlotte.edu**](mailto:ywang145@charlotte.edu).
